@@ -1,75 +1,27 @@
 ---
 layout: page
-title: "About"
-description: "学苟知本，六经皆我注脚 "
+title: "关于"
+description: "永远不要抛弃你所想过的东西"
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="https://gss0.baidu.com/7Ls0a8Sm2Q5IlBGlnYG/sys/portraitl/item/382673a0?t=1491883856" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是童年是个风筝，Github用户sctop，也是这个网站的所以人。
 
-现在研习 **认知写作学** 。
+大概一年前，我开始玩Github，但是感觉自己没有什么用，于是注销了账号
 
-###坚信
+几个月前，Wanna Cry病毒爆发，而我最喜欢的bilibili站上也放出了很多**作死的视频**，偶然一个视频我见到了**Wanna Cry的下载地址**，就是在github上。于是，那个时候我就开始回归Github了。
 
+我获取源码大概几天后，Wanna Cry便无法下载了，网站也无法访问。不过万幸的是我安装了360安全卫士，360安全卫士对Wanna Cry的exe文件进行了保存。我恢复了。然后把Wanna Cry源码的后缀给改成No Run!，让人们无法直接运行。
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+直到我遇见了[Codeic](https://github.com/Ambicour/Codeic)开发者的[Codeic Github Packs官网](https://ambicour.github.io/Codeic/)。那个时候我才知道Github还可以搭建网站。
 
+于是，我开始找Github Packs教程，但几乎要涉及到git。对于Git这个东西，我并不熟悉，我咨询了很多朋友，终于hdz2007帮我fork了他的网站，我才真正拥有了我自己的网页。
 
-###关注：
+现在我准备对网页进行一定的自定义，通过模板创建网站
 
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
-
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
-
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
-
-
-
-
-
-
+感谢**hdz2007为我搭建网站**！感谢
