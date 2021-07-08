@@ -44,3 +44,5 @@ $(function () {
     $('#tag_cloud a').tagcloud();
 });
 </script>
+
+童年是个风筝：这里来自于hdz2007的网页内容，具体什么我也不知道:(
